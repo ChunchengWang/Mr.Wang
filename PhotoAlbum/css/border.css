@@ -1,0 +1,144 @@
+#picture_border {
+    animation: border-spin 193s;
+    width: 666px;
+    height: 333px;
+    border: 10px solid #7DC0ED;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:180px;
+    left: 300px;
+}
+
+@keyframes border-spin {
+    6.6% {
+        border: 10px solid #7DC0ED;
+    }
+    6.7% {
+        border: 10px solid #2A39A3;
+    }
+    7.8% {
+        border: 10px solid #2A39A3;
+    }
+    7.9% {
+        border-left: 10px solid #000;
+        border-top: 10px solid #000;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #EB1C0D;
+    }
+    8.05% {
+        border-left: 10px solid #000;
+        border-top: 10px solid #000;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #EB1C0D;
+    }
+    8.1% {
+        border: 10px solid #EB1C0D;
+    }
+    8.29% {
+        border: 10px solid #EB1C0D;
+    }
+    8.32% {
+        border-left: 10px solid #2C0615;
+        border-top: 10px solid #5A0508;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #180B21;
+    }
+    8.53% {
+        border-left: 10px solid #2C0615;
+        border-top: 10px solid #5A0508;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #180B21;
+    }
+    8.55% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    8.77% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    8.79% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    8.99% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.01% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.23% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.25% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #EB1C0D;
+    }
+    9.47% {
+        border-left: 10px solid #8E848B;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #EB1C0D;
+    }
+    9.49% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.71% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.73% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.95% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.97% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    10.19% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    10.21% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #EB1C0D;
+    }
+}

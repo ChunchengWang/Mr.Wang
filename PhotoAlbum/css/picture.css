@@ -1,0 +1,175 @@
+#picture {
+    
+    animation: picture-spin 193s;
+    width: 656px;
+    height: 323px;
+    
+}
+
+@keyframes picture-spin {
+    0.1% {
+        background: url('../images/p1.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    0.8% {
+        background: url('../images/p1.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    0.9% {
+        background: url('../images/p2.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    1.5% {
+        background: url('../images/p2.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    1.6% {
+        background: url('../images/p3.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    2% {
+        background: url('../images/p3.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    2.1% {
+        background: url('../images/p4.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    2.7% {
+        background: url('../images/p4.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    2.8% {
+        background: url('../images/p5.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    3.4% {
+        background: url('../images/p5.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    5% {
+        background: url('../images/p6.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    6.6% {
+        background: url('../images/p6.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    6.7% {
+        background: url('../images/pp1.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*1*/
+    7.8% {
+        background: url('../images/pp1.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    7.9% {
+        background: url('../images/p7.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*2*/
+    8.05% {
+        background: url('../images/p7.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    8.1% {
+        background: url('../images/p8.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*3*/
+    8.29% {
+        background: url('../images/p8.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    8.32% {
+        background: url('../images/p9.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*4*/
+    8.53% {
+        background: url('../images/p9.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    8.55% {
+        background: url('../images/p10.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*5*/
+    8.77% {
+        background: url('../images/p10.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    8.79% {
+        background: url('../images/p11.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*5*/
+    8.99% {
+        background: url('../images/p11.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    9.01% {
+        background: url('../images/p12.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*6*/
+    9.23% {
+        background: url('../images/p12.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    9.25% {
+        background: url('../images/p13.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*7*/
+    9.47% {
+        background: url('../images/p13.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    9.49% {
+        background: url('../images/p14.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+    /*8*/
+    9.71% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #8E848B;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.73% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    /* 9.95% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #8E848B;
+        border-bottom: 10px solid #8E848B;
+    }
+    9.97% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    10.19% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #8E848B;
+    }
+    10.21% {
+        border-left: 10px solid #EB1C0D;
+        border-top: 10px solid #EB1C0D;
+        border-right: 10px solid #EB1C0D;
+        border-bottom: 10px solid #EB1C0D;
+    } */
+    100% {
+        background: url('../images/p.jpg') no-repeat;
+        background-size: 100% 100%;
+    }
+}
