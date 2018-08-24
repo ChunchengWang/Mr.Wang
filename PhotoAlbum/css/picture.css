@@ -133,16 +133,12 @@
     }
     /*8*/
     9.71% {
-        border-left: 10px solid #EB1C0D;
-        border-top: 10px solid #8E848B;
-        border-right: 10px solid #8E848B;
-        border-bottom: 10px solid #8E848B;
+        background: url('../images/p14.jpg') no-repeat;
+        background-size: 100% 100%;
     }
     9.73% {
-        border-left: 10px solid #EB1C0D;
-        border-top: 10px solid #EB1C0D;
-        border-right: 10px solid #8E848B;
-        border-bottom: 10px solid #8E848B;
+        background: url('../images/p15.jpg') no-repeat;
+        background-size: 100% 100%;
     }
     /* 9.95% {
         border-left: 10px solid #EB1C0D;
